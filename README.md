@@ -18,8 +18,9 @@ a blog repository of IT lift
 
 Hot 100 + 剑指 Offer 高频题。每题记录：我的解法 → 不足 → 更优解 → **关键洞察** → 易错点。
 
-进度见 [algorithms/README.md](./algorithms/README.md)。
+进度见 [algorithms/README.md](./algorithms/README.md)。刷题前先看 [套路总览](./algorithms/00-套路总览.md)。
 
 | # | 题名 | 难度 |
 |---|---|---|
 | 0001 | [两数之和](./algorithms/0001-two-sum.md) | 简单 |
+| 0015 | [三数之和](./algorithms/0015-three-sum.md) | 中等 |
