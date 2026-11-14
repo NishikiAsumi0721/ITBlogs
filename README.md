@@ -24,3 +24,4 @@ Hot 100 + 剑指 Offer 高频题。每题记录：我的解法 → 不足 → �
 |---|---|---|
 | 0001 | [两数之和](./algorithms/0001-two-sum.md) | 简单 |
 | 0015 | [三数之和](./algorithms/0015-three-sum.md) | 中等 |
+| 0283 | [移动零](./algorithms/0283-move-zeroes.md) | 简单 |
