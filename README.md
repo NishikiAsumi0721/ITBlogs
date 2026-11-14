@@ -23,6 +23,7 @@ Hot 100 + 剑指 Offer 高频题。每题记录：我的解法 → 不足 → �
 | # | 题名 | 难度 |
 |---|---|---|
 | 0001 | [两数之和](./algorithms/0001-two-sum.md) | 简单 |
+| 0003 | [无重复字符的最长子串](./algorithms/0003-longest-substring-without-repeating.md) | 中等 |
 | 0011 | [盛最多水的容器](./algorithms/0011-container-with-most-water.md) | 中等 |
 | 0015 | [三数之和](./algorithms/0015-three-sum.md) | 中等 |
 | 0283 | [移动零](./algorithms/0283-move-zeroes.md) | 简单 |
