@@ -26,6 +26,7 @@ Hot 100 + 剑指 Offer 高频题。每题记录：我的解法 → 不足 → �
 | 0003 | [无重复字符的最长子串](./algorithms/0003-longest-substring-without-repeating.md) | 中等 |
 | 0011 | [盛最多水的容器](./algorithms/0011-container-with-most-water.md) | 中等 |
 | 0015 | [三数之和](./algorithms/0015-three-sum.md) | 中等 |
+| 0021 | [合并两个有序链表](./algorithms/0021-merge-two-sorted-lists.md) | 简单 |
 | 0206 | [反转链表](./algorithms/0206-reverse-linked-list.md) | 简单 |
 | 0283 | [移动零](./algorithms/0283-move-zeroes.md) | 简单 |
 | 0438 | [找到字符串中所有字母异位词](./algorithms/0438-find-all-anagrams.md) | 中等 |
