@@ -30,3 +30,4 @@ Hot 100 + 剑指 Offer 高频题。每题记录：我的解法 → 不足 → �
 | 0206 | [反转链表](./algorithms/0206-reverse-linked-list.md) | 简单 |
 | 0283 | [移动零](./algorithms/0283-move-zeroes.md) | 简单 |
 | 0438 | [找到字符串中所有字母异位词](./algorithms/0438-find-all-anagrams.md) | 中等 |
+| 0560 | [和为 K 的子数组](./algorithms/0560-subarray-sum-equals-k.md) | 中等 |
